@@ -1,4 +1,4 @@
 tensorflow
-kerasrl2
+keras-rl2
 numpy
 matplotlib
